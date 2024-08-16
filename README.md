@@ -1,6 +1,6 @@
 # Python-Based-Home-Rental-Finder-Application
 
-Introduction
+#Introduction
 Welcome to the Python-Based Home Rental Finder project, an application designed to assist users in finding their perfect rental home in a new city. This tool aims to streamline the house-hunting process by aggregating information from multiple sources, such as nearby grocery stores, restaurants, and safety data, and providing top recommendations based on user preferences.
 
 Features
